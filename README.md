@@ -1,4 +1,4 @@
-### Hi, I'm Jamee👋
+# Hi, I'm Jamee👋
 
 ## I'm a University Student and Full-stack Software Developer!
 - 📌 Currently lives in Melbourne, Australia
