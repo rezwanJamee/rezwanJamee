@@ -43,7 +43,7 @@ I am a software developer interested in cloud software development, IT security,
 <br />
 
 [![HitCount](http://hits.dwyl.com/rezwanJamee/rezwanJamee.svg)](http://hits.dwyl.com/rezwanJamee/rezwanJamee)
-[![HitCount](http://hits.dwyl.com/RezwanJamee/rezwanJamee.svg)](http://hits.dwyl.com/RezwanJamee/rezwanJamee)
+
 
 <!--
 
