@@ -42,10 +42,12 @@ I am a software developer interested in cloud software development, IT security,
 <br />
 <br />
 
+
+<!--
 [![HitCount](http://hits.dwyl.com/rezwanJamee/rezwanJamee.svg)](http://hits.dwyl.com/rezwanJamee/rezwanJamee)
 
 
-<!--
+
 
 
 - My social media platform on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
