@@ -10,7 +10,7 @@
 
 I am a software developer interested in cloud software development, IT security, machine learning and data science. I am also actively trying to update myself and usually on a hunt for new development related to IT and cloud technologies. 
 ## Languages and Tools:
-<img align="left" alt="AWS" width="27px" src="images/aws.png">
+<img align="left" alt="AWS" width="27px" src="aws.png">
 
 <img align="left" alt="Java" width="27px" src="images/java.png">
 <img align="left" alt="Python" width="27px" src="images/Python.png">
@@ -29,7 +29,7 @@ I am a software developer interested in cloud software development, IT security,
 
 
 
-
+<br />
 
 <br />
 
