@@ -12,11 +12,11 @@ I am a software developer interested in cloud software development, IT security,
 ## Languages and Tools:
 <img align="left" alt="AWS" width="27px" src="aws.png">
 
-<img align="left" alt="Java" width="27px" src="images/java.png">
-<img align="left" alt="Python" width="27px" src="images/Python.png">
-<img align="left" alt="C#" width="27px" src="images/csharp.png">
-<img align="left" alt="Scikit-Learn" width="30px" src="images/Scikit_learn.png">
-<img align="left" alt="Android" width="27px" src="images/android.png">
+<img align="left" alt="Java" width="27px" src="java.png">
+<img align="left" alt="Python" width="27px" src="Python.png">
+<img align="left" alt="C#" width="27px" src="csharp.png">
+<img align="left" alt="Scikit-Learn" width="30px" src="Scikit_learn.png">
+<img align="left" alt="Android" width="27px" src="android.png">
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
