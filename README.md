@@ -4,10 +4,20 @@
 - 📌 Currently lives in Melbourne, Australia
 - 🎓 Studying at Swinburne University of Technology
 - 🔨 I’m currently learning AWS, IT security and mobile app development.
+- 💬 Ask me about AWS or software development related question.
 - 💝 Loves to work on new IT projects. 
+
 
 I am a software developer interested in cloud software development, IT security, machine learning and data science. I am also actively trying to update myself and usually on a hunt for new development related to IT and cloud technologies. 
 ## Languages and Tools:
+<img align="left" alt="AWS" width="27px" src="images/aws.png">
+
+<img align="left" alt="Java" width="27px" src="images/java.png">
+<img align="left" alt="Python" width="27px" src="images/Python.png">
+<img align="left" alt="C#" width="27px" src="images/csharp.png">
+<img align="left" alt="Scikit-Learn" width="30px" src="images/Scikit_learn.png">
+<img align="left" alt="Android" width="27px" src="images/android.png">
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -15,6 +25,12 @@ I am a software developer interested in cloud software development, IT security,
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+
+
+
+
+
 <br />
 
 
