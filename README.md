@@ -13,7 +13,7 @@ I am a software developer interested in cloud software development, IT security,
 <img align="left" alt="AWS" width="27px" src="aws.png">
 
 <img align="left" alt="Python" width="27px" src="Python.png">
-<img align="left" alt="Java" width="26px" src="java.png" />
+
 
 
 
