@@ -13,6 +13,8 @@ I am a software developer interested in cloud software development, IT security,
 <img align="left" alt="AWS" width="27px" src="aws.png">
 
 <img align="left" alt="Python" width="27px" src="Python.png">
+<img align="left" alt="Java" width="26px" src="java.png" />
+
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -32,7 +34,7 @@ I am a software developer interested in cloud software development, IT security,
 
 
 <!--
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/806/topics/html/html.png" />
+
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/806/topics/html/html.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/806/topics/html/html.png" />
 
