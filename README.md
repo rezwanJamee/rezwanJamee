@@ -1,6 +1,6 @@
 # Hi, I'm Jamee👋
 
-## I'm a University Student and Full-stack Software Developer!
+## I'm a University Student and Software Developer!
 - 📌 Currently lives in Melbourne, Australia
 - 🎓 Studying at Swinburne University of Technology
 - 🔨 I’m currently learning AWS, IT security and backend app development.
