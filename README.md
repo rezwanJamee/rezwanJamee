@@ -3,7 +3,7 @@
 ## I'm a University Student and Software Developer!
 - 📌 Currently lives in Melbourne, Australia
 - 🎓 Studying at Swinburne University of Technology
-- 🔨 I’m currently learning AWS, IT security and backend app development.
+- 🔨 I’m currently learning AWS and backend app development.
 - 💬 Ask me about AWS or software development related question.
 - 💝 Loves to work on new IT projects. 
 
