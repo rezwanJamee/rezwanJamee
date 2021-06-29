@@ -52,8 +52,8 @@ I am a software developer interested in cloud software development, IT security,
 
 ## Find me around the web 🌎: 
 - Reach me at Rezwan.jamee@gmail.com ✉️ 
-- Updating my personal skills and profile on <a href="https://www.linkedin.com/in/rezwanjamee/">LinkedIn</a> 💼
-- Online <a href="https://www.rifatjamee.com/">Portfolio</a> 🌎 (Currently under construction)
+- Updating my personal profile on <a href="https://www.linkedin.com/in/rezwanjamee/">LinkedIn</a> 💼
+- Learn more about me at <a href="https://www.rifatjamee.com/">Rifatjamee.com</a> 🌎 
 <br />
 <br />
 
