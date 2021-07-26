@@ -62,7 +62,7 @@ I am a software developer interested in cloud software development, IT security,
 [![HitCount](http://hits.dwyl.com/rezwanJamee/rezwanJamee.svg)](http://hits.dwyl.com/rezwanJamee/rezwanJamee)
 
 - My social media platform on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- Tinkering wit interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 
 **rezwanJamee/rezwanJamee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
