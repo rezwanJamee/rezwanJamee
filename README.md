@@ -5,7 +5,7 @@
 - 🎓 Final-year bachelors student at Swinburne University of Technology
 - 🔨 I’m exprienced in JavaScript app developments using React.js and Node.js.
 - 🤔 I’m looking for an entry-level software developer job in Melbourne, Australia.
-- 💬 Ask me about AWS or software development related question.
+- 💬 Ask me about ReactJS Frontend, NodeJS, AWS or software development related question.
 - 💝 Loves to work on new IT projects. 
 
 
