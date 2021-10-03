@@ -1,11 +1,11 @@
 # Hi, I'm Jamee👋
 
-## I'm a student and Software Developer!
+## I'm a recent graduate and Software Developer!
 - 📌 Currently lives in Melbourne, Australia
-- 🎓 Final-year bachelors student at Swinburne University of Technology
-- 🔨 I’m exprienced in JavaScript app developments using React.js and Node.js.
+- 🎓 Completed my bachelors study at Swinburne University of Technology
+- 🔨 I’m exprienced in Java Spring and JavaScript using React.js and Node.js software development.
 - 🤔 I’m looking for an entry-level software developer job in Melbourne, Australia.
-- 💬 Ask me about ReactJS Frontend, NodeJS, AWS or software development related question.
+- 💬 Ask me about Java Spring, ReactJS Frontend, NodeJS, AWS or software development related question.
 - 💝 Loves to work on new IT projects. 
 
 
