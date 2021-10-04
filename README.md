@@ -1,4 +1,4 @@
-# Hi, I'm Jamee👋
+# Hi, I'm Rifat Jamee👋
 
 ## I'm a recent graduate and Software Developer!
 - 📌 Currently lives in Melbourne, Australia
