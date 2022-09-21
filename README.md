@@ -23,6 +23,10 @@ I am a software developer interested in cloud software development, IT security,
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <br /><br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanJamee&layout=compact&theme=white)](https://github.com/rezwanJamee
+)
+
+<br /><br />
 ## Libraries and frameworks:
 <img align="left" alt="Spring" width="30px" alt="spring logo" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png" />
 <img align="left" alt="React" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -57,7 +61,6 @@ I am a software developer interested in cloud software development, IT security,
 - Learn more about me at <a href="https://www.rifatjamee.com/">Rifatjamee.com</a> 🌎 
 <br />
 <br />
-
 
 <!--
 [![HitCount](http://hits.dwyl.com/rezwanJamee/rezwanJamee.svg)](http://hits.dwyl.com/rezwanJamee/rezwanJamee)
