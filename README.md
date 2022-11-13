@@ -1,4 +1,4 @@
-# Hi, I'm Rifat Jamee👋
+# Hi, I'm Rifat Jamee.👋
 
 ## I'm Software Engineer!
 - 📌 Currently lives in Australia
