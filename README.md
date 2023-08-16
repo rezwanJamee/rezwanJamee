@@ -4,9 +4,9 @@
 - 📌 Currently lives in Melbourne, Australia.
 - 🎓 Completed my bachelors study at Swinburne University of Technology
 - 🔨 I’m exprienced in Java Spring and JavaScript/TypeScript using React.js, Next.js, Nest.Js and Node.js software development.
-<!-- - 🤔 I’m looking for an entry-level software developer job in Melbourne, Australia. -->
 - 💬 Ask me about Frontend, Backend, AWS or software development related question.
 - 💝 Loves to work on new IT projects. 
+<!-- - 🤔 I’m looking for an entry-level software developer job in Melbourne, Australia. -->
 
 
 I am a software developer interested in cloud software development, IT security, machine learning and data science. I am also actively trying to update myself and usually on a hunt for new development related to IT and cloud technologies. 
