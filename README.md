@@ -4,7 +4,7 @@
 - 📌 Currently lives in Melbourne, Australia.
 - 🎓 Completed my bachelors from Swinburne University of Technology in 2021
 - 🔨 Have over 2 years of professional software development experience
-- 🔨 I’m exprienced in Java Spring and JavaScript/TypeScript using React.js, Next.js, Nest.Js and Node.js software development
+- 🔨 Exprienced in JavaScript/TypeScript (React.js, Redux, React query, Next.js, Nest.Js and Node.js) and Java Spring software development
 - 💬 Ask me about Frontend, Backend, AWS or software development related question
 - 💝 Loves to work on new IT projects. 
 <!-- - 🤔 I’m looking for an entry-level software developer job in Melbourne, Australia. -->
