@@ -1,6 +1,6 @@
 # Hi, I'm Rifat Jamee.👋
 
-## I'm Software Developer!
+## I'm a Software Developer!
 - 📌 Currently lives in Melbourne, Australia.
 - 🎓 Completed my bachelors study at Swinburne University of Technology
 - 🔨 I’m exprienced in Java Spring and JavaScript/TypeScript using React.js, Next.js, Nest.Js and Node.js software development.
