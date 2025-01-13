@@ -1,10 +1,10 @@
 # Hi, I'm Rifat Jamee.👋
 
-## I'm a Software Developer!
+## I'm a Software Engineer!
 - 📌 Currently lives in Melbourne, Australia.
 - 🎓 Completed my bachelors from Swinburne University of Technology in 2021
-- 🔨 Have over 2 years of professional software development experience
-- 🔨 Exprienced in JavaScript/TypeScript (React.js, Redux, React query, Next.js, Nest.Js and Node.js) and Java Spring software development
+- 🔨 Have over 3 years of professional software development experience
+- 🔨 Exprienced in JavaScript/TypeScript (React.js, Redux, React query, Next.js, Nest.Js and Node.js), Java Spring and AWS software development
 - 💬 Ask me about Frontend, Backend, AWS or software development related question
 - 💝 Loves to work on new IT projects. 
 <!-- - 🤔 I’m looking for an entry-level software developer job in Melbourne, Australia. -->
