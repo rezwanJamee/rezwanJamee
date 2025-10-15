@@ -3,7 +3,7 @@
 ## I'm a Software Engineer!
 - 📌 Currently lives in Melbourne, Australia.
 - 🎓 Completed my bachelors from Swinburne University of Technology in 2021
-- 🔨 Have over 3 years of professional software development experience
+- 🔨 Have over 4 years of professional software development experience
 - 🔨 Exprienced in JavaScript/TypeScript (React.js, Redux, React query, Next.js, Nest.Js and Node.js), Java Spring and AWS software development
 - 💬 Ask me about Frontend, Backend, AWS or software development related question
 - 💝 Loves to work on new IT projects. 
